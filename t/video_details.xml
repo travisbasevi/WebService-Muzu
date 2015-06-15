@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<video duration="275" v240p="false" ss="false" timesViewed="1085" releasedate="04-Dec-2009" hdVersion="1" videotype="1" artistid="15892" sourceid="73254" v1080p="false" uploaded="29-Dec-2009" hls="false" id="550557" v360p="true" advisory="false" allowedterritories="DE DK ES GB FR FI BE SE LU NL NO IE IT" ownerid="2060" genre="" v480p="true" v720p="false" adultContent="false" sdVersion="1">
+  <title>
+    <![CDATA[Touched By The Hand Of Cicciolina]]>
+  </title>
+  <description>
+    <![CDATA[Official music video for the track Touched By The Hand Of Cicciolina by Pop Will Eat Itself.]]>
+  </description>
+  <artistname>
+    <![CDATA[Pop Will Eat Itself]]>
+  </artistname>
+  <channel vanityname="popwilleatitself">
+    <name>
+      <![CDATA[Pop Will Eat Itself]]>
+    </name>
+    <url>
+      <![CDATA[http://www.muzu.tv/popwilleatitself/]]>
+    </url>
+    <vanity>
+      <![CDATA[popwilleatitself]]>
+    </vanity>
+  </channel>
+  <tags>
+    <![CDATA[pop will eat itself,touched by the hand of cicciolina]]>
+  </tags>
+  <url>
+    <![CDATA[http://www.muzu.tv/popwilleatitself/touched-by-the-hand-of-cicciolina-music-video/550557/]]>
+  </url>
+  <embed>
+    <![CDATA[<object width="640" height="366" id="muzuplayer-73254" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://player.muzu.tv/player/getPlayer/a/73254/videotype=hq&autostart=n&vidId=550557&soundoff=n&la=n"></param><param name="wmode" value="transparent"></param><param name="allowscriptaccess" value="always"></param><param name="allowfullscreen" value="true"></param><embed src="http://player.muzu.tv/player/getPlayer/a/73254/videotype=hq&autostart=n&vidId=550557&soundoff=n&la=n" type="application/x-shockwave-flash" allowscriptaccess="always" wmode="transparent" allowfullscreen="true" width="640" height="366" name="muzuplayer-73254"></embed></object><br /><a href="http://www.muzu.tv/popwilleatitself/pop-will-eat-itself-touched-by-the-hand-of-cicciolina-music-video/550557/">Pop Will Eat Itself - Touched By The Hand Of Cicciolina</a> on <a href="http://www.muzu.tv/">MUZU.TV</a>]]>
+  </embed>
+  <thumbnails>
+    <image type="1" height="63" width="112">
+      <url>
+        <![CDATA[http://static.muzu.tv/media/images/000/550/557/001/550557-thb1.jpg]]>
+      </url>
+    </image>
+    <image type="3" height="120" width="160">
+      <url>
+        <![CDATA[http://static.muzu.tv/media/images/000/550/557/001/550557-thb3.jpg]]>
+      </url>
+    </image>
+    <image type="5" height="90" width="160">
+      <url>
+        <![CDATA[http://static.muzu.tv/media/images/000/550/557/001/550557-thb5.jpg]]>
+      </url>
+    </image>
+    <image type="6" height="162" width="288">
+      <url>
+        <![CDATA[http://static.muzu.tv/media/images/000/550/557/001/550557-thb6.jpg]]>
+      </url>
+    </image>
+    <image type="2" height="360" width="640">
+      <url>
+        <![CDATA[http://static.muzu.tv/media/images/000/550/557/001/550557-thb2.jpg]]>
+      </url>
+    </image>
+  </thumbnails>
+</video>
